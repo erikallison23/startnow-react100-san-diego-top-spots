@@ -1,5 +1,5 @@
 import React from 'react';
-
+//links the google maps button to google maps site.
 export default props => (
 <div className='well-jumbotron'>
     <h4>{props.name}</h4>
